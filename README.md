@@ -6,7 +6,7 @@ Django资源总结。
 
    [Django官方文档(英文)](https://www.djangoproject.com/)  
 
-2. [非常棒的django动手教程](http://www.tangowithdjango.com/)  
+2.  [非常棒的django动手教程](http://www.tangowithdjango.com/)  
 
 3. [Django最佳实践](https://www.twoscoopspress.com/products/two-scoops-of-django-1-6)  
 
