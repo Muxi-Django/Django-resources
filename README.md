@@ -12,4 +12,5 @@ Django资源总结。
 
 <h3>**文章**<h3>   
 1.[理解session与cookie](http://www.cnblogs.com/shiyangxt/archive/2008/10/07/1305506.html)</br>
-2.[Django中mysql的配置使用](http://www.cnblogs.com/wendoudou/p/mysql.html)
+2.[Django中mysql的配置使用](http://www.cnblogs.com/wendoudou/p/mysql.html)</br>
+3.[Django中的MVC思想体现](http://www.nowamagic.net/academy/detail/1318213)
