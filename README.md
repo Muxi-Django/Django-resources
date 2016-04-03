@@ -13,3 +13,6 @@ Django资源总结。
 + [理解session与cookie](http://www.cnblogs.com/shiyangxt/archive/2008/10/07/1305506.html)</br>
 + [Django中mysql的配置使用](http://www.cnblogs.com/wendoudou/p/mysql.html)</br>
 + [Django中的MVC思想体现](http://www.nowamagic.net/academy/detail/1318213)
+
+<h3>**仓库**</h3>
++ [学姐的源码分析坑哈哈哈哈哈](https://github.com/wanzifa/DjangoPower)
